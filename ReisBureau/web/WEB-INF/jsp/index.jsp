@@ -35,8 +35,6 @@
             <div id="indexTopColumn">
                 <div id="welcomeText">
                     <p>Welkom op Reisbureau&trade;!</p>
-<!--                    <p>Met behulp deze online reisbureau is de reis van je dromen niet meer verre toekomst, maar wel op een muisklik afstand!
-                        Ons aanbod van reizen zijn opgedeeld in verschillende categorien. Kijk gerust eens rond.</p>-->
                 </div>
             </div>
 
